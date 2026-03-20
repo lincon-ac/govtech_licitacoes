@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## 🚀 Versão Publicada
+
+A aplicação está publicada e disponível em:
+
+**[https://saaslicitacoes.vercel.app/](https://saaslicitacoes.vercel.app/)**
+
 ## Getting Started
 
 First, run the development server:
